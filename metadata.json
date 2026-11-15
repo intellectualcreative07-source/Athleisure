@@ -1,0 +1,6 @@
+{
+  "name": "Stylesse",
+  "description": "Style with ease — Unisex performance athleisure engineered in breathable AeroWeave micro-polyester for track, studio, and everyday essentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
